@@ -44,3 +44,9 @@ if __name__ == '__main__' → __name__ is a special variable in Python which tak
 This line ensures that our Flask app runs only when it is executed in the main file and not when it is imported in some other file
 app.run(host='127.0.0.1', port=5000) → Run the Flask application
 host specifies the server on which we want our flask application to run. The default value for host is localhost or 127.0.0.1
+
+
+## Postman
+
+I did some API testing using Postman by Sending requests and examining responses
+
